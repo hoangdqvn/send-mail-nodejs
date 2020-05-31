@@ -1,0 +1,23 @@
+{
+  "name": "send-mail-nodejs",
+  "version": "1.0.0",
+  "description": "Send mail in Nodejs using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangdqvn/send-mail-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangdqvn/send-mail-nodejs/issues"
+  },
+  "homepage": "https://github.com/hoangdqvn/send-mail-nodejs#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.8"
+  }
+}
